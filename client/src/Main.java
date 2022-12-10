@@ -6,7 +6,7 @@ public class Main {
 
         Thread receiveBroadCastSocket = new Thread(
                 () -> {
-                    /**dd
+                    /**ddd
                      * TODO 전체 코인 받아오는 스레드
                      * 서버에서 코인 정보 갱신 brocastsocket.read를 통해 읽어오고
                      * 읽어온 정보를 업데이트 시켜줌
