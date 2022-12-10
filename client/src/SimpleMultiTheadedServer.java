@@ -7,7 +7,7 @@ import java.text.NumberFormat;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class SimpleMultiTheadedServer implements Runnable {
- //ㅠㅠㅠㅠ
+ //ㅠㅠㅠ하..
     private static final ConcurrentHashMap<String, Float> map;
     private final Socket clientSocket;
 
